@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FitBuddy](https://github.com/kaushalkalas-awesome/FitBuddy)
 
-- 🌱 I’m currently learning **Soft-Skills, React**
+- 🌱 I’m currently learning **Soft-Skills, Angular**
 
 - 💬 Ask me about **Android, Web, UI/UX**
 
