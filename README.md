@@ -23,9 +23,7 @@ Hello there!👋 I'm Kaushal Kishor Kalas pursuing B-Tech in Artifical intellige
 
 - 🏋️ [FitBuddy](https://github.com/kaushalkalas-awesome/FitBuddy-ANDROID) : Android app to track fitness journey 
 - 📂 [FileForge](https://github.com/kaushalkalas-awesome/Filesharing-PHP) : Web platform for sharing files
-
-
-> [Explore My Projects →](https://github.com/kaushalkalas-awesome?tab=repositories)
+- [Explore My Projects →](https://github.com/kaushalkalas-awesome?tab=repositories)
 
 ---
 
