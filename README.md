@@ -1,7 +1,7 @@
 <!-- Retro GitHub Profile README for Kaushal Kalas -->
 
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVpYXUweW1wOW8zNjV0Y3U5a2xmM3dicjA2djNtMDViYzlwNmFueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DUO76cKAFAObu/giphy.gif" alt="Excited Cat">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM0ajVqejNzbjVuMXprdDdkeXVsYnRyeDQ2YWpiaTdpM3BrZ292eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3dGV4JKp12ko/giphy.gifhttps://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM0ajVqejNzbjVuMXprdDdkeXVsYnRyeDQ2YWpiaTdpM3BrZ292eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3dGV4JKp12ko/giphy.gif" alt="Excited Cat">
 </div>
 
 
