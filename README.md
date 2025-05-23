@@ -18,7 +18,7 @@
 
 ---
 
-### 🔧 Tech Toolbox
+### Tech Toolbox
 
 | Category         | Tools                                         |
 |------------------|-----------------------------------------------|
@@ -31,18 +31,18 @@
 
 ---
 
-### 🧪 Featured Projects
+### Featured Projects
 
 - 🏋️ FitBuddy : Android app to track there fitness journey 
 - 📂 FileForge : Web platform for sharing files
 - 📊 ML Experiments : Spam Detector, House Price Predictor & more
 
 
-> 🚀 [Explore My Projects →](https://github.com/kaushalkalas-awesome?tab=repositories)
+> [Explore My Projects →](https://github.com/kaushalkalas-awesome?tab=repositories)
 
 ---
 
-### 💾 Stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaushalkalas-awesome&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
@@ -51,7 +51,7 @@
 
 ---
 
-### 📡 Connect With Me
+### Connect With Me
 
 - 📬 Email : kaushalkalas8825@gmail.com
 - 🔗 LinkedIn : [https://linkedin.com/in/kaushalkalas](https://www.linkedin.com/in/kaushal-kalas-042885258/)
