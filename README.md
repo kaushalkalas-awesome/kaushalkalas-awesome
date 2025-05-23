@@ -10,7 +10,7 @@
 
 
 
-### 🕹️ About Me
+### About Me
 
 - Name : Kaushal Kalas
 - Role : AI/ML Student & Full-Stack Developer
