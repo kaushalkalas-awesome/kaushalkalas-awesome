@@ -1,11 +1,7 @@
 <!-- Retro GitHub Profile README for Kaushal Kalas -->
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=275&section=header&text=Kaushal%20Kalas%20&fontSize=40&fontAlign=50&fontAlignY=40&desc=Code.%20Design.%20Repeat.&descAlign=50&descAlignY=60" />
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&width=435&lines=+AI+%26+ML+Engineer;UI+%2F+UX+Enthusiast;Android+Developer" />
-
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVpYXUweW1wOW8zNjV0Y3U5a2xmM3dicjA2djNtMDViYzlwNmFueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DUO76cKAFAObu/giphy.gif" alt="Excited Cat">
 </div>
 
 
