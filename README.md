@@ -1,4 +1,3 @@
-<!-- Retro GitHub Profile README for Kaushal Kalas -->
 
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM0ajVqejNzbjVuMXprdDdkeXVsYnRyeDQ2YWpiaTdpM3BrZ292eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3dGV4JKp12ko/giphy.gifhttps://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM0ajVqejNzbjVuMXprdDdkeXVsYnRyeDQ2YWpiaTdpM3BrZ292eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3dGV4JKp12ko/giphy.gif" alt="Excited Cat">
@@ -41,4 +40,4 @@ Hello there!👋 I'm Kaushal Kishor Kalas pursuing B-Tech in Artifical intellige
 [<img src="https://cdn.simpleicons.org/x/000000" width="30" alt="X (Twitter)">](https://twitter.com/kaushal_0725) &nbsp;
 [<img src="https://cdn.simpleicons.org/discord/5865F2" width="30" alt="Discord" style="background:#5865F2;padding:3px;border-radius:4px">](https://discord.com/users/996392882653114399) &nbsp;
 [<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" alt="LeetCode">](https://leetcode.com/u/kaushalkalas8825/) &nbsp;
-[<img src="https://cdn.simpleicons.org/paypal/00457C" width="30" alt="PayPal">](https://paypal.com/KaushalKalasIN)
+[<img src="https://cdn.simpleicons.org/paypal/00457C" width="30" alt="PayPal">](https://paypal.me/KaushalKalasIN?country.x=IN&locale.x=en_GB)
